@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1487ef08417dE23865745c2258DE3E89f220e2fF",
+  "SCAN_LINK": "https://cronoscan.com/token/0x1487ef08417dE23865745c2258DE3E89f220e2fF",
+  "NETWORK": {
+    "NAME": "Cronos",
+    "SYMBOL": "CRO",
+    "ID": 25
+  },
+  "NFT_NAME": "CrolonNFTLiqBoost",
+  "SYMBOL": "CLMVVS",
+  "MAX_SUPPLY": 1999,
+  "WEI_COST": 240000000000000000000,
+  "DISPLAY_COST": 240,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "TOFU NFT",
+  "MARKETPLACE_LINK": "https://tofunft.com/collection/crolon-mars-nft/items",
+  "SHOW_BACKGROUND": true
+}
